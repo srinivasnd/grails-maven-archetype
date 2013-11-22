@@ -118,14 +118,5 @@
       </build>
     </profile>
   </profiles>  
-
-  <distributionManagement>
-   <repository>
-       <id>ApTestRel</id>
-       <name>Lynden release repository</name>
-       <url>http://localhost:8081/nexus/content/repositories/releases</url>
-    </repository>
-</distributionManagement>
-
     
 </project>
